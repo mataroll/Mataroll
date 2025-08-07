@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=QA+Engineer;Bug+Hunter;Problem+Solver;Quality+Guardian" alt="Typing SVG">
 </div>
 
-## 🚀  Welcome to my GitHub profile
+## 👋 Welcome to my Github profile
 
 ---
 
@@ -15,6 +15,11 @@
 Explore my repositories to see real QA testing projects, automation scripts, and bug reports in action!
 
 ---
+
+* 🚀 I'm Matar, and I'm a QA Engineer, Bug Hunter, and Problem Solver.
+
+  
+* 🎯 Currently working as a QA Engineer specializing in web and mobile testing.
 
 * 🐛 I develop test strategies, find bugs, create automation scripts, and ensure software quality.
 
@@ -33,9 +38,10 @@ Explore my repositories to see real QA testing projects, automation scripts, and
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+<img src="https://matarroll.github.io/logos/xray.png" title="Xray" alt="Xray" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
+<img src="https://matarroll.github.io/logos/devtools.png" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
 
 #### Programming & Development:
 
@@ -47,16 +53,13 @@ Explore my repositories to see real QA testing projects, automation scripts, and
 
 #### Database & API:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://matarroll.github.io/logos/sql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="API Testing" alt="API Testing" width="40" height="40"/>&nbsp;
 
 #### Tools & Methodologies:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Agile" alt="Agile" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Scrum" alt="Scrum" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 
 <br>
@@ -64,21 +67,23 @@ Explore my repositories to see real QA testing projects, automation scripts, and
 ### 🎯 Featured Projects
 <hr />
 
-#### 🌐 Facebook Web Testing Project
+#### 🌐 [Facebook Web Testing Project](https://drive.google.com/drive/folders/1Silo7yKihzk9UJ6XZspPcU7FNBxz6YDy)
 **Role: Scrum Master & Lead Tester**
 - Led comprehensive testing of facebook.com functionality
 - Created detailed STP, STD, and STR documentation
 - **Discovered and reported 12 critical bugs** to Facebook development team
 - Utilized DevTools for bug verification and reproduction
 - Coordinated cross-functional testing team
+- **[📁 View Complete Test Documentation](https://drive.google.com/drive/folders/1Silo7yKihzk9UJ6XZspPcU7FNBxz6YDy)**
 
-#### 📱 Waze Mobile App Testing
+#### 📱 [Waze Mobile App Testing](https://drive.google.com/drive/folders/1Silo7yKihzk9UJ6XZspPcU7FNBxz6YDy)
 **Personal QA Project**
 - Conducted thorough testing on Waze iOS and Android applications  
 - Performed Smoke, Sanity, Interface, Boundary, and Negative testing
-- Created comprehensive test documentation suite
+- Created comprehensive test documentation suite (STP, STD, STR)
 - Successfully identified multiple bugs and reported to development team
 - Cross-platform mobile testing expertise
+- **[📁 View Test Cases & Bug Reports](https://drive.google.com/drive/folders/1Silo7yKihzk9UJ6XZspPcU7FNBxz6YDy)**
 
 <br>
   
