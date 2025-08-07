@@ -6,13 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=QA+Engineer;Bug+Hunter;Problem+Solver;Quality+Guardian" alt="Typing SVG">
 </div>
 
-## 👋 Welcome to my Github profile
-
-* 🚀 I'm Matar, and I'm a QA Engineer, Bug Hunter, and Problem Solver.
-
-* 🔍 You can call me <b>Matar Roll</b> or <b>Quality Guardian</b>.
-  
-* 🎯 Currently working as a QA Engineer specializing in web and mobile testing.
+## 🚀  Welcome to my GitHub profile
 
 * 🐛 I develop test strategies, find bugs, create automation scripts, and ensure software quality.
 
