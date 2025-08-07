@@ -8,6 +8,14 @@
 
 ## 🚀  Welcome to my GitHub profile
 
+---
+
+## 🔥 Check Out My Projects Below! 👇
+
+Explore my repositories to see real QA testing projects, automation scripts, and bug reports in action!
+
+---
+
 * 🐛 I develop test strategies, find bugs, create automation scripts, and ensure software quality.
 
 * 🛠️ Here you can find some of my testing projects and QA tools.
