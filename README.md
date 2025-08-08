@@ -38,7 +38,7 @@ Explore my repositories to see real QA testing projects, automation scripts, and
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-<img src="https://matarroll.github.io/logos/xray.png" title="Xray" alt="Xray" width="40" height="40"/>&nbsp;
+<img src="https://matarroll.github.io/logos/xray.png" title="xray" alt="xray" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 <img src="https://matarroll.github.io/logos/devtools.png" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
